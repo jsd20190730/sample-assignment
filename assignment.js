@@ -23,5 +23,8 @@ Use the following test cases to confirm your program meets the success criteria
 ************/
 
 // Add your code below this line
+let name = 'Kiara'
+
+console.log(`Hi ${name}, thanks for signing up!`)
 
 // Add your code above this line
